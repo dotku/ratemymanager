@@ -1,0 +1,3 @@
+# RateMyManager
+
+* bossreportcard.com
